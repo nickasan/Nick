@@ -1,0 +1,1 @@
+ALTER TABLE php34_category ADD search_attr_id varchar(100) not null default '' comment '筛选选属性ID，多个ID用逗号隔开';
